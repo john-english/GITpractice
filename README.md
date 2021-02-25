@@ -1,0 +1,2 @@
+# GITpractice
+Practicing with GIT
